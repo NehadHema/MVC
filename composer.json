@@ -1,0 +1,17 @@
+{
+    "name": "vision/mvc",
+    "description": "for test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Vision\\Mvc\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "NehadHema",
+            "email": "95351750+NehadHema@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
